@@ -1,11 +1,11 @@
 # hostname (and path) to the root eg. http://spf13.com/
-baseurl = "http://www.example.com"
+baseurl = "http://cicero.institute"
 
 # Site title
-title = "sitename"
+title = "Cicero Institute"
 
 # Copyright
-copyright = "(c) 2015 yourname."
+copyright = "Copyright © 2016 Alexy Khrabrov"
 
 # Language
 languageCode = "en-EN"
